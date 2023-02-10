@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Backend skill**
 
-- 💬 Ask me about **Java ,SQL**
+- 💬 Ask me about **Java ,SQL,springboot,html,css,javaScript**
 
 - 📫 How to reach me **anish2272000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_gFncQMeLBw73P6lUUeHi_OkixisLKkK/view?usp=sharing](https://drive.google.com/file/d/1_gFncQMeLBw73P6lUUeHi_OkixisLKkK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1a7tUetTqYEIlzEBrpaoWfmhFZkLy-F3g?usp=share_link](https://drive.google.com/drive/folders/1a7tUetTqYEIlzEBrpaoWfmhFZkLy-F3g?usp=share_link)
 
 - ⚡ Fun fact **I am Foodie**
 
